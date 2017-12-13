@@ -1,7 +1,7 @@
 # install
 
 ```
-npm install --save webpack-htmlInsert-plugin
+npm install --save webpack-htmlinsert-plugin
 ```
 
 # usage
@@ -9,7 +9,7 @@ npm install --save webpack-htmlInsert-plugin
 in webpack.config.js
 
 ```
-const htmlInsert = require('webpack-htmlInsert-plugin');
+const htmlInsert = require('webpack-htmlinsert-plugin');
  ...
 plugins: [
  ...
